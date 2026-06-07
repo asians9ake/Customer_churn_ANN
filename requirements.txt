@@ -1,8 +1,0 @@
-tensorflow==2.19.0
-streamlit
-pandas
-numpy
-scikit-learn
-matplotlib
-scikeras
-plotly
